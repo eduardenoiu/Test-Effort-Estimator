@@ -12,3 +12,16 @@ The training material includes:
 Test effort estimation predicts the resources, time, and personnel needed for software testing. This ensures timely project delivery and cost management, improves software quality, reducing maintenance costs and assists in planning and resource allocation.
 
 
+# Granularity Levels
+Commit: A snapshot of changes at the smallest level.
+Pull Request: A bundle of commits proposed for integration.
+Release: A comprehensive version, ready for deployment.
+
+# Data Extraction Tools
+Designite: Extracts architectural metrics and design issues.
+JavaNCSS: Provides metrics like non-commenting source statements and cyclomatic complexity.
+GitHub API: Retrieves granular data on commits, pull requests, and releases.
+
+# Machine Learning Techniques
+Regression Models: Linear Regression, Lasso, Ridge, Elastic Net.
+Classification Models: Random Forests, K-Nearest Neighbors, Support Vector Machines (SVMs), and Multilayer Perceptrons (MLP).
